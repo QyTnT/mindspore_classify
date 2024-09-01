@@ -1,0 +1,2 @@
+## 使用MindSpore框架进行分类
+分别使用mindspore搭建vgg16、resnet和densenet进行手写数字识别
